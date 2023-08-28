@@ -1,0 +1,39 @@
+body{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    background: linear-gradient(red,green);
+    background-repeat: no-repeat;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    
+}
+button{
+    font-size: 20px;
+    padding: 20px ;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    font-weight: bold;
+    color: brown;
+    cursor: pointer;
+    background-color: cornflowerblue;
+}
+.container{
+    justify-content: center;
+    justify-items: center;
+    width: 30%;
+    height: 40vh;
+    border: 1px solid rgb(11, 23, 11);
+    padding: 10px;
+    margin: auto;
+    margin-top: 150px;
+    background-color: white;
+    border-radius: 10px;
+
+}
+p{
+    color: black;
+}
